@@ -2,7 +2,8 @@
 
 This project was an introduction to GUI using java in order to communicate with different users.
 
-## MakeFile 
+## MakeFile
+
 To run this file go to terminal and `cd` to the file and once there type the command `ls` into the terminal and you should see all the java files inclusing a makefile and
 this README file.
 
@@ -15,6 +16,10 @@ followed by:
 `make run`
 
 Once you hit `enter`, You will be prompted to enter the number of users. This number can be infinitely large. Once entered a GUI will appear with that many users
+
+`make clean`
+
+Will clean all the unnecessary files
 
 ### Installation
 
